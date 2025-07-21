@@ -1,5 +1,5 @@
 """
-Hour 6: Linear Search (Python + DSA)
+Hour 1: Linear Search (Python + DSA)
 Author: Ankith
 Description: Implements linear search to find a target in a list.
 """
