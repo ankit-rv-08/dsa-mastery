@@ -1,5 +1,5 @@
 """
-Hour 7: Find Minimum and Maximum (Python + DSA)
+Hour 2: Find Minimum and Maximum (Python + DSA)
 Author: Ankith
 Description: Finds the smallest and largest values in a user-entered list.
 """
