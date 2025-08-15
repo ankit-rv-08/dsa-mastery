@@ -29,3 +29,14 @@
 - [hour3_selection_sort.py](hour3_selection_sort.py)
 - [hour3_merge_sort.py](arrays/hour3_merge_sort.py)
 
+## Hour 4 – Two Sum Problem & Sliding Window
+
+- Implemented brute force and hash map (dictionary) solutions for the Two Sum problem.
+- Introduced sliding window technique for contiguous subarray processing.
+- Essential prep for interviews and algorithmic challenges.
+
+**Scripts:**
+- arrays/hour4_two_sum.py
+- arrays/hour4_max_sum_subarray.py
+
+
