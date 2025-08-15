@@ -36,7 +36,7 @@
 - Essential prep for interviews and algorithmic challenges.
 
 **Scripts:**
-- [hour4_two_sum.py](hour4_two_sum.py)
-- [hour4_max_sum_subarray.py](hour4_max_sum_subarray.py)
+- [hour4_two_sum.py](arrays/hour4_two_sum.py)
+- [hour4_max_sum_subarray.py](arrays/hour4_max_sum_subarray.py)
 
 
