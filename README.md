@@ -10,13 +10,13 @@ A structured record of my DSA practice. Organized by pattern, not by topic. Ever
 
 ## 📊 Progress
 
-**Total solved: 2 / 150 (NeetCode 150)**
-**Current streak: 1 day**
-**Last updated: 2026-09-22**
+**Total solved: 4 / 150 (NeetCode 150)**
+**Current streak: 2 days**
+**Last updated: 2026-09-23**
 
 | Pattern | Solved | Target | Progress |
 |---|---:|---:|---|
-| Arrays & Hashing | 2 | 9 | ███░░░░░░░ 22% |
+| Arrays & Hashing | 4 | 9 | █████░░░░░ 44% |
 | Two Pointers | 0 | 5 | ░░░░░░░░░░ 0% |
 | Sliding Window | 0 | 6 | ░░░░░░░░░░ 0% |
 | Stack | 0 | 7 | ░░░░░░░░░░ 0% |
@@ -89,6 +89,8 @@ Notes: Used a set. Check if num in seen before adding.
 |---:|---|---|---|---|---|
 | 217 | Contains Duplicate | Easy | Hash Set | 2026-09-22 | ✅ |
 | 242 | Valid Anagram | Easy | Frequency Count | 2026-09-22 | ✅ |
+| 1 | Two Sum | Easy | Hash Map | 2026-09-23 | ✅ |
+| 49 | Group Anagrams | Medium | Sorted Key | 2026-09-23 | ✅ |
 
 ---
 
@@ -96,6 +98,8 @@ Notes: Used a set. Check if num in seen before adding.
 
 - ✅ **Hash Set** — O(1) membership for duplicate detection
 - ✅ **Frequency Count** — character/count mapping for anagram checks
+- ✅ **Complement Lookup** — store seen values, check for complement
+- ✅ **Canonical Key** — normalize strings (sort or count) for grouping
 
 ---
 

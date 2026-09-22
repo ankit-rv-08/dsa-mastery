@@ -24,6 +24,20 @@ Daily record of problems solved, patterns recognized, and weak spots to revisit.
 
 **Weak spots:** None today.
 
+#### Wednesday, Sep 23 — Day 2
+
+**Problems solved:**
+- 1. Two Sum (Easy) — Hash Map — revision
+- 49. Group Anagrams (Medium) — Sorted Key — revision
+
+**Patterns recognized:**
+- Complement Lookup: store value→index, check for `target - num`
+- Canonical Key: sort each string to group anagrams
+
+**Committed:**
+- `dsa: 1 two sum (hash map, easy)`
+- `dsa: 49 group anagrams (sorted key, medium)`
+
 ---
 
 ### October
@@ -36,11 +50,11 @@ _No entries yet._
 
 | Month | Problems | Patterns | Weak spots cleared |
 |---|---:|---:|---:|
-| Sep 2026 | 2 | 2 | 0 |
+| Sep 2026 | 4 | 4 | 0 |
 
-**Total solved (NeetCode 150):** 2 / 150
-**Current streak:** 1 day
-**Last updated:** 2026-09-22
+**Total solved (NeetCode 150):** 4 / 150
+**Current streak:** 2 days
+**Last updated:** 2026-09-23
 
 ---
 
