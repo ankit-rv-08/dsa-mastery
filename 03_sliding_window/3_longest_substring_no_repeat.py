@@ -1,7 +1,12 @@
 """
-LeetCode #3: Longest Substring Without Repeating Characters
-Pattern: Sliding Window + Set
-Date: Oct 27, 2025
+Problem: Longest Substring Without Repeating Characters
+LeetCode: 3
+Pattern: Sliding Window
+Time: O(n)
+Space: O(n)
+Attempts: 1 (solved alone)
+Date: 2026-09-22
+Notes: Shrink the window until its set contains no duplicate character.
 """
 
 def lengthOfLongestSubstring(s):

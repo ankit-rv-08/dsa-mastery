@@ -1,129 +1,132 @@
-# dsa-mastery
-“Structured DSA learning and practice with detailed notes”
+# DSA Mastery
 
-## Arrays Module
+**Pattern-based problem solving — NeetCode 150**
 
-### Hour 1: Linear Search
-[hour1_linear_search.py](arrays/hour1_linear_search.py)
-- Implements linear search to find a target in a list
-- User input, iteration, index reporting
-- Time complexity: O(n)
----
+Python • MIT License
 
-### Hour 2: Find Minimum and Maximum
-[hour2_find_min_max.py](arrays/hour2_find_min_max.py)
-- Finds the smallest and largest values in a user-entered list
-- Handles empty input gracefully
-- Reinforces array traversal and comparison logic
+A structured record of my DSA practice. Organized by pattern, not by topic. Every problem file includes the approach, complexity, and the pattern recognized.
 
 ---
 
-### Hour 3: Binary Search and Basic Sorting Algorithms
+## 📊 Progress
 
-- Implemented Linear Search in Hour 1, Min/Max in Hour 2.
-- This hour includes: Bubble Sort, Selection Sort, and Merge Sort implementations.
-- Introduced sorting techniques and explained time and space complexity.
+**Total solved: 2 / 150 (NeetCode 150)**
+**Current streak: 1 day**
+**Last updated: 2026-09-22**
 
-**Scripts:**
-- [hour3_bubble_sort.py](hour3_bubble_sort.py)
-- [hour3_selection_sort.py](hour3_selection_sort.py)
-- [hour3_merge_sort.py](arrays/hour3_merge_sort.py)
-
-## Hour 4 – Two Sum Problem & Sliding Window
-
-- Implemented brute force and hash map (dictionary) solutions for the Two Sum problem.
-- Introduced sliding window technique for contiguous subarray processing.
-- Essential prep for interviews and algorithmic challenges.
-
-**Scripts:**
-- [hour4_two_sum.py](arrays/hour4_two_sum.py)
-- [hour4_max_sum_subarray.py](arrays/hour4_max_sum_subarray.py)
-
-
----
-
-## 📊 Current Progress (Updated Oct 27, 2025)
-
-**Total Problems Solved:** 8/350 (2.3%)  
-**Hours Invested:** 3  
-**Patterns Mastered:** 5  
-**Current Streak:** 🔥 2 days  
-
-| Category | Solved | Target | Progress |
-|----------|--------|--------|----------|
-| Arrays | 2 | 40 | ███░░░░░░░ 5% |
-| Strings | 3 | 30 | ████░░░░░░ 10% |
-| Sliding Window | 3 | 20 | ██████░░░░ 15% |
-| Two Pointers | 2 | 20 | ████░░░░░░ 10% |
-| HashMap/Set | 5 | 25 | ████████░░ 20% |
+| Pattern | Solved | Target | Progress |
+|---|---:|---:|---|
+| Arrays & Hashing | 2 | 9 | ███░░░░░░░ 22% |
+| Two Pointers | 0 | 5 | ░░░░░░░░░░ 0% |
+| Sliding Window | 0 | 6 | ░░░░░░░░░░ 0% |
+| Stack | 0 | 7 | ░░░░░░░░░░ 0% |
+| Binary Search | 0 | 7 | ░░░░░░░░░░ 0% |
+| Linked List | 0 | 11 | ░░░░░░░░░░ 0% |
+| Trees | 0 | 15 | ░░░░░░░░░░ 0% |
+| Tries | 0 | 3 | ░░░░░░░░░░ 0% |
+| Heap / Priority Queue | 0 | 7 | ░░░░░░░░░░ 0% |
+| Backtracking | 0 | 9 | ░░░░░░░░░░ 0% |
+| Graphs | 0 | 13 | ░░░░░░░░░░ 0% |
+| Advanced Graphs | 0 | 6 | ░░░░░░░░░░ 0% |
+| 1-D Dynamic Programming | 0 | 12 | ░░░░░░░░░░ 0% |
+| 2-D Dynamic Programming | 0 | 11 | ░░░░░░░░░░ 0% |
+| Greedy | 0 | 8 | ░░░░░░░░░░ 0% |
+| Intervals | 0 | 6 | ░░░░░░░░░░ 0% |
+| Math & Geometry | 0 | 8 | ░░░░░░░░░░ 0% |
+| Bit Manipulation | 0 | 7 | ░░░░░░░░░░ 0% |
 
 ---
 
-## 📝 Problems Solved (Oct 26-27, 2025)
+## 📁 Structure
 
-### Arrays & Two Pointers
+```text
+dsa-mastery/
+├── 01_arrays_hashing/
+├── 02_two_pointers/
+├── 03_sliding_window/
+├── 04_stack/
+├── 05_binary_search/
+├── 06_linked_list/
+├── 07_trees/
+├── 08_tries/
+├── 09_heap_priority_queue/
+├── 10_backtracking/
+├── 11_graphs/
+├── 12_advanced_graphs/
+├── 13_1d_dp/
+├── 14_2d_dp/
+├── 15_greedy/
+├── 16_intervals/
+├── 17_math_geometry/
+├── 18_bit_manipulation/
+├── progress_log.md
+├── README.md
+└── LICENSE
+```
+
+Each problem file is named `###_problem_name.py` (LeetCode ID + name) and begins with:
+
+```python
+"""
+Problem: Contains Duplicate
+LeetCode: 217
+Pattern: Hash Set
+Time: O(n)
+Space: O(n)
+Attempts: 1 (solved alone)
+Date: 2026-09-22
+Notes: Used a set. Check if num in seen before adding.
+"""
+```
+
+---
+
+## ✅ Solved
+
+### Arrays & Hashing
+
 | # | Problem | Difficulty | Pattern | Date | Status |
-|---|---------|-----------|---------|------|--------|
-| 1 | Two Sum | Easy | HashMap | Oct 26 | ✅ |
-| 125 | Valid Palindrome | Easy | Two Pointers | Oct 26 | ✅ |
-
-### Strings & HashMaps
-| # | Problem | Difficulty | Pattern | Date | Status |
-|---|---------|-----------|---------|------|--------|
-| 242 | Valid Anagram | Easy | HashMap Frequency | Oct 26 | ✅ |
-| 217 | Contains Duplicate | Easy | Set | Oct 26 | ✅ |
-| 49 | Group Anagrams | Medium | Sorted Key | Oct 26 | ✅ |
-
-### Sliding Window
-| # | Problem | Difficulty | Pattern | Date | Status |
-|---|---------|-----------|---------|------|--------|
-| 485 | Max Consecutive Ones | Easy | Sliding Window | Oct 27 | ✅ |
-| 121 | Best Time to Buy/Sell Stock | Easy | Sliding Window | Oct 27 | ✅ |
-| 3 | Longest Substring Without Repeating | Medium | Sliding Window + Set | Oct 27 | ✅ |
+|---:|---|---|---|---|---|
+| 217 | Contains Duplicate | Easy | Hash Set | 2026-09-22 | ✅ |
+| 242 | Valid Anagram | Easy | Frequency Count | 2026-09-22 | ✅ |
 
 ---
 
-## 🔥 Patterns Mastered
+## 🧠 Patterns Mastered
 
-✅ **HashMap** - O(n) frequency counting, complement search  
-✅ **Two Pointers** - Opposite ends, moving toward center  
-✅ **Set** - O(1) duplicate detection, uniqueness checks  
-✅ **Sorted Keys** - Anagram grouping, normalization  
-✅ **Sliding Window** - Dynamic subarray/substring optimization  
+- ✅ **Hash Set** — O(1) membership for duplicate detection
+- ✅ **Frequency Count** — character/count mapping for anagram checks
 
 ---
 
-## 💡 Key Takeaways (Week 1)
+## 📝 Weak Patterns (review weekly)
 
-### HashMap Pattern
-- Store `{value: index}` for O(1) complement lookup
-- Frequency counting: `count[char] = count.get(char, 0) + 1`
-- Converts O(n²) brute force to O(n)
-
-### Sliding Window Pattern
-- Maintain valid window with two pointers (left, right)
-- Expand right to grow window, shrink left when invalid
-- Track maximum valid window size
-- Converts O(n²) subarray checks to O(n)
-
-### Set for Duplicates
-- `len(set(arr)) != len(arr)` instantly detects duplicates
-- O(1) membership checking
-- Perfect for "seen before" checks
+_None yet._
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Targets
 
-**Week 1 Goal:** Master foundational patterns (Arrays, Strings, Sliding Window)  
-**Week 2 Goal:** Mixed pattern practice, increase speed  
-**Month 1 Goal:** 60+ problems, all easy/medium patterns solid  
-
-**Daily Target:** 2-3 problems (6 hours of focused work)  
-**Mentored by:** Sarge Ghost 🎖️  
-**Target Role:** 15-20 LPA Cloud/AI/DevOps Engineer by Dec 2026  
+- **Week 1 (Sep 22–28):** 14 problems — Arrays & Hashing complete
+- **Month 1 (October):** 60 problems — Arrays, Two Pointers, Sliding Window, Stack
+- **Month 3 (December):** 180 problems — all core patterns
+- **Month 8 (May 2027):** 300+ problems + 20 mock interviews
 
 ---
+
+## 📌 Rules
+
+1. **Attempt for 20 minutes before looking at a solution.**
+2. **One commit per problem.** Message: `dsa: ### problem-name (pattern, difficulty)`
+3. **After every problem, write the pattern in one sentence.**
+4. **No switching lists.** NeetCode 150 only until complete.
+5. **No courses.** Solve problems. Read solutions only when stuck.
+
+---
+
+## License
+
+MIT.
 
 
 

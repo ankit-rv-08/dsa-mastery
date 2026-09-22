@@ -1,7 +1,12 @@
 """
-LeetCode #125: Valid Palindrome
+Problem: Valid Palindrome
+LeetCode: 125
 Pattern: Two Pointers
-Date: Oct 26, 2025
+Time: O(n)
+Space: O(1)
+Attempts: 1 (solved alone)
+Date: 2026-09-22
+Notes: Compare alphanumeric characters from both ends while moving inward.
 """
 
 def isPalindrome(s):

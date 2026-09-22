@@ -1,7 +1,12 @@
 """
-LeetCode #121: Best Time to Buy and Sell Stock
-Pattern: Sliding Window (Track Min)
-Date: Oct 27, 2025
+Problem: Best Time to Buy and Sell Stock
+LeetCode: 121
+Pattern: Sliding Window
+Time: O(n)
+Space: O(1)
+Attempts: 1 (solved alone)
+Date: 2026-09-22
+Notes: Track the lowest price seen and the best profit at each price.
 """
 
 def maxProfit(prices):
