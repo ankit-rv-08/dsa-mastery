@@ -10,13 +10,13 @@ A structured record of my DSA practice. Organized by pattern, not by topic. Ever
 
 ## 📊 Progress
 
-**Total solved: 4 / 150 (NeetCode 150)**
-**Current streak: 2 days**
-**Last updated: 2026-09-23**
+**Total solved: 6 / 150 (NeetCode 150)**
+**Current streak: 3 days**
+**Last updated: 2026-09-24**
 
 | Pattern | Solved | Target | Progress |
-|---|---:|---:|---|
-| Arrays & Hashing | 4 | 9 | █████░░░░░ 44% |
+|---|---|---|---|
+| Arrays & Hashing | 6 | 9 | ███████░░░ 67% |
 | Two Pointers | 0 | 5 | ░░░░░░░░░░ 0% |
 | Sliding Window | 0 | 6 | ░░░░░░░░░░ 0% |
 | Stack | 0 | 7 | ░░░░░░░░░░ 0% |
@@ -28,8 +28,8 @@ A structured record of my DSA practice. Organized by pattern, not by topic. Ever
 | Backtracking | 0 | 9 | ░░░░░░░░░░ 0% |
 | Graphs | 0 | 13 | ░░░░░░░░░░ 0% |
 | Advanced Graphs | 0 | 6 | ░░░░░░░░░░ 0% |
-| 1-D Dynamic Programming | 0 | 12 | ░░░░░░░░░░ 0% |
-| 2-D Dynamic Programming | 0 | 11 | ░░░░░░░░░░ 0% |
+| 1-D DP | 0 | 12 | ░░░░░░░░░░ 0% |
+| 2-D DP | 0 | 11 | ░░░░░░░░░░ 0% |
 | Greedy | 0 | 8 | ░░░░░░░░░░ 0% |
 | Intervals | 0 | 6 | ░░░░░░░░░░ 0% |
 | Math & Geometry | 0 | 8 | ░░░░░░░░░░ 0% |
@@ -91,6 +91,8 @@ Notes: Used a set. Check if num in seen before adding.
 | 242 | Valid Anagram | Easy | Frequency Count | 2026-09-22 | ✅ |
 | 1 | Two Sum | Easy | Hash Map | 2026-09-23 | ✅ |
 | 49 | Group Anagrams | Medium | Sorted Key | 2026-09-23 | ✅ |
+| 347 | Top K Frequent Elements | Medium | Heap / Bucket Sort | 2026-09-24 | ✅ |
+| 238 | Product of Array Except Self | Medium | Prefix / Suffix | 2026-09-24 | ✅ |
 
 ---
 

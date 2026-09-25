@@ -38,6 +38,22 @@ Daily record of problems solved, patterns recognized, and weak spots to revisit.
 - `dsa: 1 two sum (hash map, easy)`
 - `dsa: 49 group anagrams (sorted key, medium)`
 
+#### Thursday, Sep 24 — Day 3
+
+**Problems solved:**
+- 347. Top K Frequent Elements (Medium) — Heap / Bucket Sort — revision
+- 238. Product of Array Except Self (Medium) — Prefix / Suffix — revision
+
+**Patterns recognized:**
+- Bucket Sort: bucket by frequency for O(n) top-k
+- Prefix / Suffix Products: two passes, no division
+
+**Committed:**
+- `dsa: 347 top k frequent elements (heap, medium)`
+- `dsa: 238 product of array except self (prefix suffix, medium)`
+
+**Weak spots:** None.
+
 ---
 
 ### October
@@ -50,11 +66,11 @@ _No entries yet._
 
 | Month | Problems | Patterns | Weak spots cleared |
 |---|---:|---:|---:|
-| Sep 2026 | 4 | 4 | 0 |
+| Sep 2026 | 6 | 6 | 0 |
 
-**Total solved (NeetCode 150):** 4 / 150
-**Current streak:** 2 days
-**Last updated:** 2026-09-23
+**Total solved (NeetCode 150):** 6 / 150
+**Current streak:** 3 days
+**Last updated:** 2026-09-24
 
 ---
 
