@@ -10,13 +10,13 @@ A structured record of my DSA practice. Organized by pattern, not by topic. Ever
 
 ## 📊 Progress
 
-**Total solved: 6 / 150 (NeetCode 150)**
-**Current streak: 3 days**
-**Last updated: 2026-09-24**
+**Total solved: 8 / 150 (NeetCode 150)**
+**Current streak: 4 days**
+**Last updated: 2026-09-25**
 
 | Pattern | Solved | Target | Progress |
 |---|---|---|---|
-| Arrays & Hashing | 6 | 9 | ███████░░░ 67% |
+| Arrays & Hashing | 8 | 9 | ████████░░ 89% |
 | Two Pointers | 0 | 5 | ░░░░░░░░░░ 0% |
 | Sliding Window | 0 | 6 | ░░░░░░░░░░ 0% |
 | Stack | 0 | 7 | ░░░░░░░░░░ 0% |
@@ -86,13 +86,15 @@ Notes: Used a set. Check if num in seen before adding.
 ### Arrays & Hashing
 
 | # | Problem | Difficulty | Pattern | Date | Status |
-|---:|---|---|---|---|---|
+|---|---|---|---|---|---|
 | 217 | Contains Duplicate | Easy | Hash Set | 2026-09-22 | ✅ |
 | 242 | Valid Anagram | Easy | Frequency Count | 2026-09-22 | ✅ |
 | 1 | Two Sum | Easy | Hash Map | 2026-09-23 | ✅ |
 | 49 | Group Anagrams | Medium | Sorted Key | 2026-09-23 | ✅ |
 | 347 | Top K Frequent Elements | Medium | Heap / Bucket Sort | 2026-09-24 | ✅ |
 | 238 | Product of Array Except Self | Medium | Prefix / Suffix | 2026-09-24 | ✅ |
+| 36 | Valid Sudoku | Medium | Hash Sets (3 arrays) | 2026-09-25 | ✅ |
+| 128 | Longest Consecutive Sequence | Medium | Set + Smart Iteration | 2026-09-25 | ✅ |
 
 ---
 

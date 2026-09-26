@@ -54,6 +54,22 @@ Daily record of problems solved, patterns recognized, and weak spots to revisit.
 
 **Weak spots:** None.
 
+#### Friday, Sep 25 — Day 4
+
+**Problems solved:**
+- 36. Valid Sudoku (Medium) — Hash Sets (rows, cols, boxes)
+- 128. Longest Consecutive Sequence (Medium) — Set + smart iteration
+
+**Patterns recognized:**
+- Multi-set tracking: use separate sets for rows, columns, and boxes to enforce Sudoku constraints
+- Sequence start detection: only count from numbers that have no predecessor in the set
+
+**Committed:**
+- `dsa: 36 valid sudoku (hash sets, medium)`
+- `dsa: 128 longest consecutive sequence (set, medium)`
+
+**Weak spots:** None.
+
 ---
 
 ### October
@@ -66,11 +82,11 @@ _No entries yet._
 
 | Month | Problems | Patterns | Weak spots cleared |
 |---|---:|---:|---:|
-| Sep 2026 | 6 | 6 | 0 |
+| Sep 2026 | 8 | 8 | 0 |
 
-**Total solved (NeetCode 150):** 6 / 150
-**Current streak:** 3 days
-**Last updated:** 2026-09-24
+**Total solved (NeetCode 150):** 8 / 150
+**Current streak:** 4 days
+**Last updated:** 2026-09-25
 
 ---
 
