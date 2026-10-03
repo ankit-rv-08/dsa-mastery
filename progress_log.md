@@ -72,9 +72,25 @@ Daily record of problems solved, patterns recognized, and weak spots to revisit.
 
 ---
 
-### October
+## October 2026
 
-_No entries yet._
+### Day 11 — Friday, Oct 3
+
+**Problems solved:**
+- 11. Container With Most Water (Medium) — Two Pointers
+- 271. Encode and Decode Strings (Medium) — Length-Prefix Encoding
+
+**Patterns recognized:**
+- Two Pointers (converging): start wide, move the shorter pointer inward
+- Length-Prefix Encoding: prepend `len(s)#` to each string for lossless encode/decode
+
+**Committed:**
+- `dsa: 11 container with most water (two pointers, medium)`
+- `dsa: 271 encode and decode strings (length prefix, medium)`
+
+**Weak spots:** None.
+
+**Milestone:** Arrays & Hashing complete (9/9). Moved into Two Pointers.
 
 ---
 

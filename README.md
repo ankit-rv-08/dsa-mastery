@@ -10,14 +10,14 @@ A structured record of my DSA practice. Organized by pattern, not by topic. Ever
 
 ## 📊 Progress
 
-**Total solved: 8 / 150 (NeetCode 150)**
-**Current streak: 4 days**
-**Last updated: 2026-09-25**
+**Total solved: 10 / 150 (NeetCode 150)**
+**Current streak: 6 days**
+**Last updated: 2026-10-03**
 
 | Pattern | Solved | Target | Progress |
 |---|---|---|---|
-| Arrays & Hashing | 8 | 9 | ████████░░ 89% |
-| Two Pointers | 0 | 5 | ░░░░░░░░░░ 0% |
+| Arrays & Hashing | 9 | 9 | ██████████ 100% |
+| Two Pointers | 1 | 5 | ██░░░░░░░░ 20% |
 | Sliding Window | 0 | 6 | ░░░░░░░░░░ 0% |
 | Stack | 0 | 7 | ░░░░░░░░░░ 0% |
 | Binary Search | 0 | 7 | ░░░░░░░░░░ 0% |
@@ -95,6 +95,13 @@ Notes: Used a set. Check if num in seen before adding.
 | 238 | Product of Array Except Self | Medium | Prefix / Suffix | 2026-09-24 | ✅ |
 | 36 | Valid Sudoku | Medium | Hash Sets (3 arrays) | 2026-09-25 | ✅ |
 | 128 | Longest Consecutive Sequence | Medium | Set + Smart Iteration | 2026-09-25 | ✅ |
+| 271 | Encode and Decode Strings | Medium | Length-Prefix | 2026-10-03 | ✅ |
+
+### Two Pointers
+
+| # | Problem | Difficulty | Pattern | Date | Status |
+|---|---|---|---|---|---|
+| 11 | Container With Most Water | Medium | Two Pointers (converging) | 2026-10-03 | ✅ |
 
 ---
 
